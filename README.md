@@ -13,7 +13,7 @@
 	<img src="http://media.giphy.com/media/5oOz8ByHKrMU8/giphy.gif" width="200px" height = "150px">
 </div>
 <div>
-	<img src="http://runeatrepeat.com/wp-content/uploads/2015/03/me-eating-chocolate.gif"  width="200px" height = "150px">
+	<img src="http://s17.postimg.org/e25lhgk9b/Butter_Wrappers.jpg"  width="200px" height = "150px">
 </div>
 
 
